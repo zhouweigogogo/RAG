@@ -32,6 +32,7 @@ def get_ans(prompt):
     # for trunk in response:
     #     print(trunk.content)
 
+
 if __name__ == "__main__":
     if os.path.exists('./document'):
 
